@@ -457,7 +457,7 @@
         init <- Erlang_initial(x=x, breaks=8,shape=support)
         support <- init$shape
         weight <- init$weight
-        theta <- init$thet
+        theta <- init$theta
       }
     }
     
